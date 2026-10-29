@@ -265,21 +265,21 @@ O projeto foi posteriormente reorganizado e documentado para integrar meu **port
 
 ---
 
-## 🚀 Próximos estudos
+## ⏭︎ Próximos estudos
 
 A partir dos conceitos trabalhados nesta atividade, pretendo aprofundar meus conhecimentos em:
 
-- 🤖 Engenharia de Prompt;
-- 🧠 Inteligência Artificial Generativa;
-- 💬 Large Language Models — LLMs;
-- ⚙️ Automação utilizando IA;
-- 🔗 Integração de Inteligência Artificial em aplicações;
-- 📊 Machine Learning;
-- 🛡️ Uso responsável e ético da Inteligência Artificial.
+- ⊹ Engenharia de Prompt;
+- ⊹ Inteligência Artificial Generativa;
+- ⊹ Large Language Models — LLMs;
+- ⊹ Automação utilizando IA;
+- ⊹ Integração de Inteligência Artificial em aplicações;
+- ⊹ Machine Learning;
+- ⊹ Uso responsável e ético da Inteligência Artificial.
 
 ---
 
-## 📄 Licença
+## 𓍝 Licença
 
 Este projeto está disponibilizado sob a **MIT License**.
 
@@ -287,9 +287,9 @@ Consulte o arquivo [`LICENSE`](./LICENSE) para mais informações.
 
 ---
 
-## 👨‍💻 Autor
+## ✉ Autor
 
-**Gabriel Silva**  
+**Gabriel Silva de Carvalho**  
 Estudante de **Análise e Desenvolvimento de Sistemas — ADS**  
 Foco de estudos em **Inteligência Artificial** 🤖
 
