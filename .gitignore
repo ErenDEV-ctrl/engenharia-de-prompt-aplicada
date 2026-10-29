@@ -1,0 +1,18 @@
+# Variáveis de ambiente e credenciais
+.env
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.log
