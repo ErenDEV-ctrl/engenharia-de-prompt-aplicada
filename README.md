@@ -271,7 +271,7 @@ A partir dos conceitos trabalhados nesta atividade, pretendo aprofundar meus con
 
 - ⊹ Engenharia de Prompt;
 - ⊹ Inteligência Artificial Generativa;
-- ⊹ Large Language Models — LLMs;
+- ⊹ LLMs;
 - ⊹ Automação utilizando IA;
 - ⊹ Integração de Inteligência Artificial em aplicações;
 - ⊹ Machine Learning;
